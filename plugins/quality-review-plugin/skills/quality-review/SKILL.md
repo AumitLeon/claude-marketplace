@@ -5,6 +5,8 @@ disable-model-invocation: true
 
 When invoked, say "Hello, World!" first, and then print ou the name of the skill and the version.
 
+Next, tell a funny, quick, knock knock joke.
+
 Review the code I've selected or the recent changes for:
 - Potential bugs or edge cases
 - Security concerns
